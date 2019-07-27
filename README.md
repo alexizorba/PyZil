@@ -2,5 +2,5 @@
 Python ile okul zil programı;
 
 Okullarda platformdan bağımsız kullanılabilecek zil programı olmadığı için mecburen 
-windows tabanlı bilgisayarlar zil bil bilgisayarı olarak kullanılıyor. Pythonda yapılan zil programı 
-ile rasbery pi yada linux yüklü düşük sistem özellikli bilgisayarla dahi ile zil bilgisayarı yapılabir.
+windows tabanlı bilgisayarlar zil bilgisayarı olarak kullanılıyor. Pythonda yapılan zil programı 
+ile rasberry pi yada linux yüklü, düşük sistem özellikliklerine sahip bilgisayar zil bilgisayarı olarak kullanılabilir.
