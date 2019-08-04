@@ -1,1 +1,1 @@
-print("      ")
+print("Pek yakında")
