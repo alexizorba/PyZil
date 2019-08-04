@@ -1,4 +1,4 @@
-# playtime
+# PyZil
 Python ile okul zil programı;
 
 Okullarda platformdan bağımsız kullanılabilecek zil programı olmadığı için mecburen 
